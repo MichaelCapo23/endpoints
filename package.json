@@ -1,0 +1,25 @@
+{
+  "name": "endpoints",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[server.js)",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js\u001b[A\u001b[D\u001b[Dmain.js\u001b[C\u001b\u001b[C\u001b[\u001b[C\u001b[C server.js\u001b[B\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[)\u001b[B\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[A\u001b[D\u001b[D\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelCapo23/endpoints.git"
+  },
+  "author": "MIchael Capobnaco\u001b[D\u001b[D\u001b[D\u001b[D\u001b[ianco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelCapo23/endpoints/issues"
+  },
+  "homepage": "https://github.com/MichaelCapo23/endpoints#readme"
+}
